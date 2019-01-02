@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>toy13.jpg</filename>
+	<path>/Users/cake/Desktop/Projects/udemy/toyDetection/images/train/toy13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>79</ymin>
+			<xmax>321</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>
